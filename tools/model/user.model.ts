@@ -8,4 +8,5 @@ export class UserModel {
   email:string;
   password:string;
 audit:AuditModel;
+birthDay: Date
 }

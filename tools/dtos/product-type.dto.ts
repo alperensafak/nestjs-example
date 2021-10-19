@@ -1,3 +1,3 @@
 export class ProductTypeDto {
-  name:string;
+  name: string;
 }
