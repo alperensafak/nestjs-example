@@ -1,0 +1,4 @@
+export default {
+  mongoUrl:
+    'mongodb+srv://alperensafak:123123123@nestjs.2btoi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+};
