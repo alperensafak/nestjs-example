@@ -1,4 +1,4 @@
 export default {
   mongoUrl:
-    'mongodb+srv://udemy:Udemy_123@nestjs-jcbid.mongodb.net/test?retryWrites=true&w=majority',
+    'mongodb+srv://alperensafak:123123123@nestjs.2btoi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 };
