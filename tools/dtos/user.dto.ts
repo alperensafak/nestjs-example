@@ -15,7 +15,6 @@ export class UserCreateDto {
   birthDay: Date;
 }
 
-// tslint:disable-next-line:max-classes-per-file
 export class UserUpdateDto {
   name: string;
   surname: string;
@@ -27,7 +26,6 @@ export class UserUpdateDto {
   groups: GroupModel[];
 }
 
-// tslint:disable-next-line:max-classes-per-file
 export class UserLoginDto {
   email: string;
   password: string;
